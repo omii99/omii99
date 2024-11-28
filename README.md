@@ -65,7 +65,7 @@
 ---
 
 ## 📫 Reach Me  
-- 📧 Email: [mandara@example.com](mailto:ww.mandara@gmail.com)  
+- 📧 Email: [ww.mandara@gmail.com](mailto:ww.mandara@gmail.com)  
 - 💼 LinkedIn: [Mandara Welaramba](https://linkedin.com/in/iammandara)  
 
 🌟 *Let’s build something amazing together!*
