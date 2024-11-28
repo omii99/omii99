@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Mandara Welaramba!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mandara-welaramba)](https://linkedin.com/in/mandara-welaramba)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:mandara@example.com)](mailto:mandara@example.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iammandara)](https://linkedin.com/in/iammandara)
+[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:ww.mandara@gmail.com)](mailto:ww.mandara@gmail.com)
 
 ---
 
@@ -53,8 +52,8 @@
 ---
 
 ## 📈 GitHub Stats  
-![Mandara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandaraWelaramba&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MandaraWelaramba&layout=compact&theme=radical)
+![Mandara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omii99&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omii99&layout=compact&theme=radical)
 
 ---
 
@@ -66,7 +65,7 @@
 ---
 
 ## 📫 Reach Me  
-- 📧 Email: [mandara@example.com](mailto:mandara@example.com)  
-- 💼 LinkedIn: [Mandara Welaramba](https://linkedin.com/in/mandara-welaramba)  
+- 📧 Email: [mandara@example.com](mailto:ww.mandara@gmail.com)  
+- 💼 LinkedIn: [Mandara Welaramba](https://linkedin.com/in/iammandara)  
 
 🌟 *Let’s build something amazing together!*
