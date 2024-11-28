@@ -1,14 +1,19 @@
 # 👋 Hello, I'm Mandara Welaramba!
 
+![Developer GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iammandara)](https://linkedin.com/in/iammandara)
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:ww.mandara@gmail.com)](mailto:ww.mandara@gmail.com)
 
 ---
 
 ## 💡 About Me  
+
 🎓 I'm a passionate **Software Engineer** specializing in modern web technologies.  
 🚀 With **React.js** and **Next.js**, I bring intuitive, scalable, and performant user interfaces to life.  
 🌟 I thrive on solving complex problems, building clean and maintainable code, and learning new tools every day.  
+
+![Problem Solver GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 ---
 
@@ -34,6 +39,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
+![Tools GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
 ---
 
 ## 🔭 Current Focus  
@@ -44,27 +51,35 @@
 ---
 
 ## 🎨 What I Can Do for You  
+
 - 🚀 Create modern, dynamic web applications with **React.js** and **Next.js**.  
 - 🌟 Develop backend systems with **Node.js** and **MongoDB/MySQL**.  
 - ✨ Build responsive, mobile-friendly designs with **HTML/CSS**.  
 - 🛠️ Integrate REST APIs and third-party tools for scalable solutions.  
 
+![Coding GIF](https://media.giphy.com/media/3o7aCVfHyZmP4UXiBO/giphy.gif)
+
 ---
 
 ## 📈 GitHub Stats  
+
 ![Mandara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omii99&show_icons=true&theme=radical&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omii99&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 Fun Facts  
+
 - 💡 I love experimenting with new JavaScript frameworks and libraries.  
 - 🐦 I find inspiration in nature and enjoy photographing birds and landscapes.  
 - 🛠️ Hobbies include exploring the intersection of **design** and **technology**.  
 
+![Fun GIF](https://media.giphy.com/media/26FPGQw6Ic1ZWvjD2/giphy.gif)
+
 ---
 
 ## 📫 Reach Me  
+
 - 📧 Email: [ww.mandara@gmail.com](mailto:ww.mandara@gmail.com)  
 - 💼 LinkedIn: [Mandara Welaramba](https://linkedin.com/in/iammandara)  
 
