@@ -39,8 +39,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-![Tools GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-
 ---
 
 ## 🔭 Current Focus  
@@ -56,8 +54,6 @@
 - 🌟 Develop backend systems with **Node.js** and **MongoDB/MySQL**.  
 - ✨ Build responsive, mobile-friendly designs with **HTML/CSS**.  
 - 🛠️ Integrate REST APIs and third-party tools for scalable solutions.  
-
-![Coding GIF](https://media.giphy.com/media/3o7aCVfHyZmP4UXiBO/giphy.gif)
 
 ---
 
