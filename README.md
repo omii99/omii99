@@ -61,23 +61,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Mandara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omii99&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omii99&layout=compact&theme=radical)
-
----
-
-## 🌟 Fun Facts  
-
-- 💡 I love experimenting with new JavaScript frameworks and libraries.  
-- 🐦 I find inspiration in nature and enjoy photographing birds and landscapes.  
-- 🛠️ Hobbies include exploring the intersection of **design** and **technology**.  
-
-![Fun GIF](https://media.giphy.com/media/26FPGQw6Ic1ZWvjD2/giphy.gif)
-
----
-
 ## 📫 Reach Me  
 
 - 📧 Email: [ww.mandara@gmail.com](mailto:ww.mandara@gmail.com)  
